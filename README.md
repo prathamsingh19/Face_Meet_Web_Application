@@ -31,8 +31,8 @@ Introducing **Face Meet**, built with the latest Next.js and TypeScript, this pr
   - Tailwind CSS
 
 - **Tools**:
-  - Vs Code for coding 💻
-  - Vercel App for deployment 🚀
+  - Vs Code for coding 
+  - Vercel App for deployment 
 
 
 ## Live Demo 🌐
