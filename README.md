@@ -39,7 +39,7 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 ## Live Demo 🌐
 
 
-You can view the live version here : [https://weather-hub-pratham.vercel.app/](https://weather-hub-pratham.vercel.app/)
+You can view the live version here : [https://face-meet-call.vercel.app/](https://face-meet-call.vercel.app/)
 
 
 
