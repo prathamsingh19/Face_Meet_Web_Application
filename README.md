@@ -1,7 +1,6 @@
 # Face Meet Web Application 📷
 
-Introducing **Face Meet 🌟**
-Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants. Face Meet is a powerful and intuitive video call web app designed to provide the smoothest user experience across all devices. Whether you're scheduling a meeting, hosting a video call, or recording your session for future reference, Face Meet has you covered.
+Introducing **Face Meet**, built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants. Face Meet is a powerful and intuitive video call web app designed to provide the smoothest user experience across all devices. Whether you're scheduling a meeting, hosting a video call, or recording your session for future reference, Face Meet has you covered.
 
 ## 🚀 Features
 
